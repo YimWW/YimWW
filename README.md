@@ -14,7 +14,7 @@
 
 
 
-| 左对齐 | 右对齐 | 居中对齐 |
-| :----:| :----: | :----: |
-| 单元格 | 单元格 | 单元格 |
-| 单元格 | 单元格 | 单元格 |
+| 这个作业属于哪个课程 | [软件工程](https://edu.cnblogs.com/campus/gdgy/informationsecurity1812) | 
+| :----:| :----: | 
+| 这个作业要求在哪里 | [作业要求](https://edu.cnblogs.com/campus/gdgy/informationsecurity1812/homework/11156) | 
+| 这个作业的目标 | 自我介绍，利用 markdowm 写博客，github 的使用 | 
